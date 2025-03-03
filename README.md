@@ -9,7 +9,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/meteors-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/meteors-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/meteors-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/meteors-data-pack/stargazers)
 
-The enchantment can be obtained from the enchantment table, loot chests or trading with villagers.
+A new challenge to your world. At unpredictable intervals, a meteorite falls from the sky, and you'll hear a distinctive sound as it approaches, building anticipation and tension.
 
 Version: `1.21.X`
 
