@@ -23,6 +23,12 @@ Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5x
 
 ## ⌨️ Commands
 
+Spawn meteor:
+
+```mcfunction
+/function meteors:meteor/spawn
+```
+
 Disable:
 
 ```mcfunction
